@@ -1,6 +1,6 @@
 ## Hello there! I'm Dano 💜
 
-<img src=https:"//raw.githubusercontent.com/antonellafernandez/antonellafernandez/main/assets/happy-spyro.gif" />
+[//raw.githubusercontent.com/antonellafernandez/antonellafernandez/main/assets/happy-spyro.gif](https://github.com/antonellafernandez/antonellafernandez/blob/main/assets/happy-spyro.gif?raw=true)
 
 
 <!--
