@@ -2,7 +2,7 @@
 <p align="center">A software developer student from <a href="https://exa.unicen.edu.ar/" target="_blank">FCEx 🌟 UNICEN</a>.</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/antonellafernandez/antonellafernandez/main/assets/happy-spyro.gif" />
+  <img src="https://raw.githubusercontent.com/antonellafernandez/antonellafernandez/main/assets/spyro01.gif" />
 </p>
 
 <!-- Badge de lenguajes más usados -->
