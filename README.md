@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello there! I'm Dano 💜
+
+<img align="center" src="https://raw.githubusercontent.com/antonellafernandez/antonellafernandez/main/assets/happy-spyro />
+
 
 <!--
 **antonellafernandez/antonellafernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
