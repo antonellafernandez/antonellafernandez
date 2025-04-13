@@ -7,5 +7,5 @@
 
 <!-- Badge de lenguajes más usados -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonellafernandez&layout=compact&theme=shades-of-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonellafernandez&layout=compact&theme=tokyonight" />
 </p>
