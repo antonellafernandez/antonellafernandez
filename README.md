@@ -2,9 +2,10 @@
 <p align="center">/software-developer</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/antonellafernandez/antonellafernandez/main/assets/happy-spyro.gif"/>
+  <img src="https://raw.githubusercontent.com/antonellafernandez/antonellafernandez/main/assets/happy-spyro.gif" />
 </p>
 
+<!-- Badge de lenguajes más usados -->
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonellafernandez&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonellafernandez&layout=compact&theme=tokyonight" />
 </p>
