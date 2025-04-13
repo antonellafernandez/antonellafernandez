@@ -1,7 +1,7 @@
-## Hello there! I'm Dano 💜
+<h3 align="center">Hello there! I'm Dano 💜</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/antonellafernandez/antonellafernandez/main/assets/happy-spyro.gif" width=40px/>
+  <img src="https://raw.githubusercontent.com/antonellafernandez/antonellafernandez/main/assets/happy-spyro.gif"/>
 </p>
 
 
