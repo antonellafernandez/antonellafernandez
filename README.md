@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Dano 💜</h1>
-<p align="center">Application development technician</p>
+<p align="center">Software developer</p>
 <p align="center">and computer network administration student from <a href="https://exa.unicen.edu.ar/" target="_blank">FCEx 🌟 UNICEN</a>.</p>
 
 <p align="center">
